@@ -78,3 +78,10 @@
 ## Project Purpose
 ### This project demonstrates my ability to use SQL and PostgreSQL to cleanly organize data analysis, answer business questions, calculates summary statistics, identify patterns, and communicate findings in a business-focused way. 
 
+## Screenshots
+### SQL Analysis
+![SQL Analysis](screenshots/sql_analysis.png)
+### Fraud Analysis
+![Fraud Analysis](screenshots/fraud_results.png)
+### Claim Severity Analysis
+![Claim Severity Analysis](screenshots/severity_analysis.png)
