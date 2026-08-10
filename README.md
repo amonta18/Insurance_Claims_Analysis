@@ -80,8 +80,8 @@
 
 ## Screenshots
 ### SQL Analysis
-![SQL Analysis](screenshots/sql_analysis.png)
+![SQL Analysis](screenshots/SQL_analysis.png)
 ### Fraud Analysis
-![Fraud Analysis](screenshots/fraud_results.png)
+![Fraud Analysis](screenshots/Fraud_results.png)
 ### Claim Severity Analysis
-![Claim Severity Analysis](screenshots/severity_analysis.png)
+![Claim Severity Analysis](screenshots/Claim_severity_results.png)
